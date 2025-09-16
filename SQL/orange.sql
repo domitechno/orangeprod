@@ -17,7 +17,7 @@ create table user (
 );
 
 insert into user values
-	(null, "PICQ", "Elian", "elian@gmail.com", "0123456789", "123", "technicien");
+	(null, "BECKAM", "David", "david@gmail.com", "0123456789", "123", "technicien");
 
 
 
